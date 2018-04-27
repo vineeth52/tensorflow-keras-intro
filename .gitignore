@@ -1,0 +1,5 @@
+data/lab*
+**pyc
+**__pycache__
+**.ipynb_checkpoints
+notebooks/logs
