@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow
+  - keras
+  - pydot
+  - graphviz
+  - scipy
+  - seaborn
+  - bokeh  
